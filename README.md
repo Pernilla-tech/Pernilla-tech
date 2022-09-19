@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Pernilla!
 
 - 👀 I like coding, food, training and my family. In no particular order.
-- 🌱 I’m currently learning everything about JavaScript, Vue, React
+- 🌱 I’m currently learning everything about JavaScript, React, Typescript
 - 📫 How to reach me: 
 - Mail: pernilla.skeppstedt@gmail.com 
 - Linkedin: https://www.linkedin.com/in/pernilla-skeppstedt-a5a70164/
